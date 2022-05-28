@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.f15905ef.css",
-    "main.js": "/website/static/js/main.392a1d73.js",
+    "main.css": "/website/static/css/main.c52e9a9a.css",
+    "main.js": "/website/static/js/main.edfb5b4e.js",
     "static/media/video.mp4": "/website/static/media/video.697d9c042a4dec8716f2.mp4",
     "static/media/video.webm": "/website/static/media/video.defbf1bb518f0f6e94cf.webm",
     "static/media/nat-6.jpg": "/website/static/media/nat-6.2d00ff9422fb1070945d.jpg",
     "static/media/nat-5.jpg": "/website/static/media/nat-5.6a01a34858634c5ca25e.jpg",
     "static/media/hero.jpg": "/website/static/media/hero.15e5f60eb95486007f5a.jpg",
+    "static/media/nat-9.jpg": "/website/static/media/nat-9.b7a3e52c053a5bcace84.jpg",
     "static/media/nat-7.jpg": "/website/static/media/nat-7.167e44e461bb060f062e.jpg",
     "static/media/nat-10.jpg": "/website/static/media/nat-10.66b4c17a798f60687f63.jpg",
     "static/media/nat-4.jpg": "/website/static/media/nat-4.114dc94031b51b2988c7.jpg",
-    "static/media/logo-green-2x.png": "/website/static/media/logo-green-2x.76177450fa1c1b472bcc.png",
+    "static/media/nat-8.jpg": "/website/static/media/nat-8.106780313042f8b1c0ff.jpg",
+    "static/media/hotdog-logo.png": "/website/static/media/hotdog-logo.e33416c1d926d525b1eb.png",
     "static/media/linea-basic-10.svg": "/website/static/media/linea-basic-10.a5a02e7fc44d05c1fa87.svg",
     "static/media/linea-basic-10.eot": "/website/static/media/linea-basic-10.83fbe2710ec1d18f00b1.eot",
     "static/media/linea-basic-10.ttf": "/website/static/media/linea-basic-10.172006d6a70ece2b1a0c.ttf",
     "static/media/linea-basic-10.woff": "/website/static/media/linea-basic-10.5665793dc15cc2dca6db.woff",
     "index.html": "/website/index.html",
-    "main.f15905ef.css.map": "/website/static/css/main.f15905ef.css.map",
-    "main.392a1d73.js.map": "/website/static/js/main.392a1d73.js.map"
+    "main.c52e9a9a.css.map": "/website/static/css/main.c52e9a9a.css.map",
+    "main.edfb5b4e.js.map": "/website/static/js/main.edfb5b4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15905ef.css",
-    "static/js/main.392a1d73.js"
+    "static/css/main.c52e9a9a.css",
+    "static/js/main.edfb5b4e.js"
   ]
 }
