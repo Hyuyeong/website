@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.c52e9a9a.css",
-    "main.js": "/website/static/js/main.edfb5b4e.js",
+    "main.css": "/website/static/css/main.34d30a64.css",
+    "main.js": "/website/static/js/main.d2620b91.js",
     "static/media/video.mp4": "/website/static/media/video.697d9c042a4dec8716f2.mp4",
     "static/media/video.webm": "/website/static/media/video.defbf1bb518f0f6e94cf.webm",
     "static/media/nat-6.jpg": "/website/static/media/nat-6.2d00ff9422fb1070945d.jpg",
@@ -12,17 +12,20 @@
     "static/media/nat-10.jpg": "/website/static/media/nat-10.66b4c17a798f60687f63.jpg",
     "static/media/nat-4.jpg": "/website/static/media/nat-4.114dc94031b51b2988c7.jpg",
     "static/media/nat-8.jpg": "/website/static/media/nat-8.106780313042f8b1c0ff.jpg",
+    "static/media/nat-1-large.jpg": "/website/static/media/nat-1-large.a1c1cbdbbfcad1e41a64.jpg",
+    "static/media/nat-3-large.jpg": "/website/static/media/nat-3-large.da53b7a00e30c54d543a.jpg",
+    "static/media/nat-2-large.jpg": "/website/static/media/nat-2-large.cbc0cd9f8636cfe88fe7.jpg",
     "static/media/hotdog-logo.png": "/website/static/media/hotdog-logo.e33416c1d926d525b1eb.png",
     "static/media/linea-basic-10.svg": "/website/static/media/linea-basic-10.a5a02e7fc44d05c1fa87.svg",
     "static/media/linea-basic-10.eot": "/website/static/media/linea-basic-10.83fbe2710ec1d18f00b1.eot",
     "static/media/linea-basic-10.ttf": "/website/static/media/linea-basic-10.172006d6a70ece2b1a0c.ttf",
     "static/media/linea-basic-10.woff": "/website/static/media/linea-basic-10.5665793dc15cc2dca6db.woff",
     "index.html": "/website/index.html",
-    "main.c52e9a9a.css.map": "/website/static/css/main.c52e9a9a.css.map",
-    "main.edfb5b4e.js.map": "/website/static/js/main.edfb5b4e.js.map"
+    "main.34d30a64.css.map": "/website/static/css/main.34d30a64.css.map",
+    "main.d2620b91.js.map": "/website/static/js/main.d2620b91.js.map"
   },
   "entrypoints": [
-    "static/css/main.c52e9a9a.css",
-    "static/js/main.edfb5b4e.js"
+    "static/css/main.34d30a64.css",
+    "static/js/main.d2620b91.js"
   ]
 }
