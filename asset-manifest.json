@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.fb895bff.css",
+    "main.css": "/website/static/css/main.3b287ae8.css",
     "main.js": "/website/static/js/main.0c1161d7.js",
     "static/media/Lake Tekapo in New Zealand.mp4": "/website/static/media/Lake Tekapo in New Zealand.c56a1fe6348080ac7b3d.mp4",
     "static/media/Piha Beach.mp4": "/website/static/media/Piha Beach.e47bc3c214d24e544b12.mp4",
@@ -15,11 +15,11 @@
     "static/media/linea-basic-10.ttf": "/website/static/media/linea-basic-10.172006d6a70ece2b1a0c.ttf",
     "static/media/linea-basic-10.woff": "/website/static/media/linea-basic-10.5665793dc15cc2dca6db.woff",
     "index.html": "/website/index.html",
-    "main.fb895bff.css.map": "/website/static/css/main.fb895bff.css.map",
+    "main.3b287ae8.css.map": "/website/static/css/main.3b287ae8.css.map",
     "main.0c1161d7.js.map": "/website/static/js/main.0c1161d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb895bff.css",
+    "static/css/main.3b287ae8.css",
     "static/js/main.0c1161d7.js"
   ]
 }
